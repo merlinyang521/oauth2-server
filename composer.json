@@ -1,0 +1,13 @@
+{
+    "name": "kof/oauth2-server",
+    "description": "league/oauth2-server Entities",
+    "type": "library",
+    "require": {
+        "league/oauth2-server": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kof\\OAuth2\\": "src/"
+        }
+    }
+}
